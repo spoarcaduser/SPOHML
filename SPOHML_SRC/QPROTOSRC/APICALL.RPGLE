@@ -1,19 +1,3 @@
-      *%CSTD===========================================================*
-      ** Application. : SPOHML     Arcad Demo for Skipper-Git          *
-      ** Component. . : APICALL                       Type: RPGLE      *
-      **===============================================================*
-      ** Sub-system . :                                                *
-      ** Function . . :                                                *
-      ** Sub-function :                                                *
-      **%S=============================================================*
-      ** Description of functions:                                     *
-      **                                                               *
-      **                                                               *
-      **                                                               *
-      **%E=============================================================*
-      ** AUTHOR:                          00:00                        *
-      ** MODIFS: 01 SPORLON    04/09/2020 21:43  01.00.01    00/       *
-      *%ECSTD==========================================================*
      d crtusrspc       pr                  extpgm('QUSCRTUS')
      D  usrspc                       20
      D spc_attr                      10    const
