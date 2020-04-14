@@ -1,3 +1,19 @@
+      *%CSTD===========================================================*
+      ** Application. : SPOHML     Arcad Demo for Skipper-Git          *
+      ** Component. . : ART201D                       Type: DSPF       *
+      **===============================================================*
+      ** Sub-system . :                                                *
+      ** Function . . :                                                *
+      ** Sub-function :                                                *
+      **%S=============================================================*
+      ** Description of functions:                                     *
+      **                                                               *
+      **                                                               *
+      **                                                               *
+      **%E=============================================================*
+      ** AUTHOR:                          00:00                        *
+      ** MODIFS: 01 SPORLON    04/14/2020 14:47  01.00.01    00/       *
+      *%ECSTD==========================================================*
      A*%%TS  SD  20161201  100328  VTAQUIN     REL-V7R1M0  5770-WDS
      A*%%EC
      A                                      DSPSIZ(24 80 *DS3)
@@ -7,7 +23,7 @@
      A                                      PRINT
      A                                      ERRSFL
      A          R SFL01                     SFL
-     A*%%TS  SD  20161025  170547  VTAQUIN     REL-V7R1M0  5770-WDS
+     A*%%TS  SD  20161025  170547  SPORLON     REL-V7R1M0  5770-WDS
      A  33                                  SFLNXTCHG
      A            OPT01          2Y 0B  7  3
      A  34                                  DSPATR(RI)
@@ -19,7 +35,7 @@
      A                                      EDTCDE(2)
      A            APREF     R        O  7 57REFFLD(FARPR/APREF *LIBL/ARTIPROV)
      A          R CTL01                     SFLCTL(SFL01)
-     A*%%TS  SD  20161201  100051  VTAQUIN     REL-V7R1M0  5770-WDS
+     A*%%TS  SD  20161201  100051  SPORLON     REL-V7R1M0  5770-WDS
      A                                      CA05(05)
      A                                      OVERLAY
      A  31                                  SFLDSP
