@@ -7,12 +7,12 @@
       ** Sub-function :                                                *
       **%S=============================================================*
       ** Description of functions:                                     *
-      **                                                               *
+      **          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                *
       **                                                               *
       **                                                               *
       **%E=============================================================*
       ** AUTHOR:                          00:00                        *
-      ** MODIFS: 01 ARCAD_PGMR 04/09/2020 21:52  01.00.01    00/       *
+      ** MODIFS: 01 SPORLON    04/14/2020 14:29  01.00.01    00/       *
       *%ECSTD==========================================================*
        // changed by ARCAD_PGMR
      d crtusrspc       pr                  extpgm('QUSCRTUS')
